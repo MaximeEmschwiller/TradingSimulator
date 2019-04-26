@@ -1,0 +1,2 @@
+# TradingSimulator
+OOP Project
