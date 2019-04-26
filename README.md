@@ -1,2 +1,4 @@
 # TradingSimulator
 OOP Project
+Test
+
